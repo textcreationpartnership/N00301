@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000378_0000_0FA50295F3B42138"/>
-            <pb facs="tcp:000378_0001_0FA50296A81AD880" rendition="simple:additions"/>
+            <pb facs="unknown:000378_0000_0FA50295F3B42138"/>
+            <pb facs="unknown:000378_0001_0FA50296A81AD880"
+                rendition="simple:additions"/>
             <p>A SHORT CATECHISM Drawn out of the WORD of GOD</p>
             <p>By <hi>SAMVEL STONE, MINISTE<gap reason="illegible: page cropped" extent="1 letter">
                      <desc>•</desc>
@@ -129,8 +130,9 @@
       </front>
       <body>
          <div type="catechism">
-            <pb facs="tcp:000378_0002_0FA502976F6DE820" rendition="simple:additions"/>
-            <pb n="3" facs="tcp:000378_0003_0FA502984189C4B0"/>
+            <pb facs="unknown:000378_0002_0FA502976F6DE820"
+                rendition="simple:additions"/>
+            <pb n="3" facs="unknown:000378_0003_0FA502984189C4B0"/>
             <head>A SHORT CATECHISM.</head>
             <p>Quest. <hi>WHat is Divinity or Religion?</hi>
             </p>
@@ -160,7 +162,7 @@
             <p>Q: <hi>Wherein consisteth the sufficiency of God:</hi>
             </p>
             <p>
-               <pb n="4" facs="tcp:000378_0004_0FA5029901861360"/>
+               <pb n="4" facs="unknown:000378_0004_0FA5029901861360"/>
                <hi>A:</hi> In the Divine Essence, and Subsistance, of Persons, <hi>Mat:</hi> 28:19: <hi>John</hi> 17.13: 1 <hi>John</hi> 5:7:</p>
             <p>Q: <hi>What is the Divine Essence?</hi>
             </p>
@@ -202,7 +204,7 @@
                </gap> all, according to his ancient Decree, <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="5" facs="tcp:000378_0005_0FA50299B1978E80"/>
+               <pb n="5" facs="unknown:000378_0005_0FA50299B1978E80"/>
                <hi>Isa.</hi> 25.1. <hi>Rom.</hi> 11.36. 1 <hi>Cor.</hi> 12.6. 2 <hi>Cor.</hi> 6.18</p>
             <p>Q. <hi>What are the kinds of Efficiency, or the works of God?</hi>
             </p>
@@ -253,7 +255,7 @@
                <hi>Eccles.</hi> 7.29<g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="6" facs="tcp:000378_0006_0FA5029A6625C328"/>Q. <hi>What is the Providence of God?</hi>
+               <pb n="6" facs="unknown:000378_0006_0FA5029A6625C328"/>Q. <hi>What is the Providence of God?</hi>
             </p>
             <p>
                <hi>A.</hi> His exact watch over all his Creatures, whereby they are preserved and guided to their end, 1 <hi>Chron.</hi> 29.11, 12: <hi>Nehem.</hi> 9.6, <hi>Psal.</hi> 104 27—31, and 145.15, 16. <hi>Isa.</hi> 6.<gap reason="illegible: indecipherable" extent="1 letter">
@@ -288,7 +290,7 @@
                <g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="7" facs="tcp:000378_0007_0FA5029B6B87B128"/>Q: <hi>What is that death which is entered into the world by sin:</hi>
+               <pb n="7" facs="unknown:000378_0007_0FA5029B6B87B128"/>Q: <hi>What is that death which is entered into the world by sin:</hi>
             </p>
             <p>
                <hi>A:</hi> A miserable privation or loss of the life of joy or comfort, <hi>Gen:</hi> 2:17: 1 <hi>Sam:</hi> 25:37: <hi>Rom:</hi> 5:17, and 6:23:</p>
@@ -329,7 +331,7 @@
                <hi>Q. What is the Union of those two distinct Na<g ref="char:EOLhyphen"/>tures of Christ?</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:000378_0008_0FA5029BE4F36D48"/>
+               <pb n="8" facs="unknown:000378_0008_0FA5029BE4F36D48"/>
                <hi>Answ</hi>
                <g ref="char:punc">▪</g> That whereby the second person in the God-head takes the humane Nature to subsist for ever in his own person, <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
@@ -387,7 +389,7 @@
             </p>
             <p>
                <hi>A</hi> That whereby it is extended to the Church or Seed of Christ, through the unresistable power
-<pb n="9" facs="tcp:000378_0009_0FA502A16CD5DFF0"/>
+<pb n="9" facs="unknown:000378_0009_0FA502A16CD5DFF0"/>
 of the Spirit in the Word, <hi>Isa.</hi> 53 10, and 59 2<gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap> 
@@ -428,7 +430,7 @@ of the Spirit in the Word, <hi>Isa.</hi> 53 10, and 59 2<gap reason="illegible: 
             </p>
             <p>
                <hi>A</hi> When he is willing to see that truth which is most cross to his beloved sin, and that God should
-<pb n="10" facs="tcp:000378_0010_0FA502A2A45E9F88"/>
+<pb n="10" facs="unknown:000378_0010_0FA502A2A45E9F88"/>
 take it away by any means, <hi>Joh</hi> 24 32, <hi>Hos:</hi> 14 2 <hi>John</hi> 3 20, 21,</p>
             <p>
                <hi>Q What is Humiliation?</hi>
@@ -460,7 +462,7 @@ take it away by any means, <hi>Joh</hi> 24 32, <hi>Hos:</hi> 14 2 <hi>John</hi> 
             </p>
             <p>
                <hi>A</hi> By his spirit in the promise, darting in the special light and sweetness of the boundless riches of his grace in Christ, <hi>Isa.</hi> 43 1, <hi>John</hi> 6 44, 45
-<pb n="11" facs="tcp:000378_0011_0FA502A2B77AB2A0"/>
+<pb n="11" facs="unknown:000378_0011_0FA502A2B77AB2A0"/>
                <hi>Rom.</hi> 10 14—18, 2 <hi>Cor.</hi> 4 6.</p>
             <p>
                <hi>Q What is the justification of a Believer?</hi>
@@ -500,7 +502,7 @@ take it away by any means, <hi>Joh</hi> 24 32, <hi>Hos:</hi> 14 2 <hi>John</hi> 
             </p>
             <p>
                <hi>A</hi> In Obedience to the Law and the helps of
-<pb n="12" facs="tcp:000378_0012_0FA502A36E7376D8"/>
+<pb n="12" facs="unknown:000378_0012_0FA502A36E7376D8"/>
 Obedience, which are Invocation of God, and Celebration of Sacraments, <hi>Psal.</hi> 50.15. <hi>Mat.</hi> 38 19, 20: <hi>Jam:</hi> 1: 5.</p>
             <p>Q <hi>What is Obedience to the Law?</hi>
             </p>
@@ -535,7 +537,7 @@ Obedience, which are Invocation of God, and Celebration of Sacraments, <hi>Psal.
                <hi>Mat:</hi> 22.39, <hi>Rom.</hi> 13 8, 9, 10, and 16: 8:</p>
             <p>Q <hi>Which are the duties of love to our neighbour, re<g ref="char:EOLhyphen"/>quired in the sixth Commandment of the second Table</hi>:</p>
             <p>
-               <pb n="13" facs="tcp:000378_0013_0FA502A42CBD4AF8"/>
+               <pb n="13" facs="unknown:000378_0013_0FA502A42CBD4AF8"/>
                <hi>A</hi> The due preservation of his Degree, life cha<g ref="char:EOLhyphen"/>stity, good, name and prosperity, <hi>Exod:</hi> 20: 12— 18 <hi>Rom:</hi> 13: 8, 9, 10:</p>
             <p>
                <hi>Q What is Invocation of God?</hi>
@@ -584,7 +586,7 @@ Obedience, which are Invocation of God, and Celebration of Sacraments, <hi>Psal.
                   <desc>•</desc>
                </gap> 11, &amp; 28.19:</p>
             <p>
-               <pb n="14" facs="tcp:000378_0014_0FA502A4EAF0B0E8"/>
+               <pb n="14" facs="unknown:000378_0014_0FA502A4EAF0B0E8"/>
                <hi>Q What is the special thing signified?</hi>
             </p>
             <p>
@@ -633,7 +635,7 @@ Obedience, which are Invocation of God, and Celebration of Sacraments, <hi>Psal.
                </gap>
             </p>
             <p>
-               <pb n="15" facs="tcp:000378_0015_0FA502A5F274D308"/>A Our receiving Christ, and feeding upon him <gap reason="illegible: indecipherable" extent="1 letter">
+               <pb n="15" facs="unknown:000378_0015_0FA502A5F274D308"/>A Our receiving Christ, and feeding upon him <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>y Faith, <hi>Mat:</hi> 26: 27, 28: <hi>John</hi> 1: 12:</p>
             <p>
